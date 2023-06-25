@@ -1,0 +1,13 @@
+.Top_Section{
+    background-color:#fb4e71;
+    width: 100%;
+    border-radius: 0px;
+}
+.Bottom_Section{
+    background-color: #e6f6ff;
+    border: none;
+    padding-right: 20px;
+}
+.card {
+    border: none;
+}

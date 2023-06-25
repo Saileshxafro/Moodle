@@ -1,0 +1,25 @@
+.Main_Body{
+    margin-top: 40px;
+    margin-left: 450px;
+}
+.Back_Color{
+    background-color: #f6c56e;
+    margin-top: -140px;
+    border: 1px solid #f6c56e;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.Book_Now{
+    background-color: #ffffff;
+    color: #323f4b;
+    font-family: 'Roboto';
+}
+.Head_One{
+    font-family: 'Bree Serif';
+    font-weight: bold;
+    
+}
+.Para_One{
+    font-family: 'Roboto';
+    font-weight: bold;
+}

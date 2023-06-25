@@ -1,0 +1,29 @@
+.Main_Page{
+    margin: 0 auto;
+}
+.Learn_More{
+    background-color: #ffffff;
+    border: 2px solid #d7dfe9;
+    color: #171f46;   
+}
+.Save_Draft{
+    background-color: #5752ab;
+    border: 2px solid #d7dfe9; 
+}
+.Head_One{
+    color: #5752ab;
+    font-family: 'Bree-Serif';
+    font-size: 25px;
+    font-weight: 700;
+}
+.Para_One{
+    color: #323f4b;
+    font-family: 'Roboto';
+}
+.Card_Body{
+    background-color: #ffffff;
+    margin-top: -140px;
+    border: 1px solid #ffffff;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}

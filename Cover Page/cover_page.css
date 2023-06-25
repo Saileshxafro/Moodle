@@ -1,0 +1,21 @@
+.Main_Body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 700px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 450px;
+    font-family: 'Bree Serif';
+    padding-top: 200px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 30px;
+}
+.Card_One{
+    background-color: #00000080;
+    border: 5px solid #48ee59;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 60px;
+}

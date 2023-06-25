@@ -1,0 +1,50 @@
+.Main_Body{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 560px;
+    width: 420px;
+    background-repeat: no-repeat;
+    margin-left: 450px;
+    background-size: cover;
+    margin-top: 100px;
+}
+.Head_One{
+    background-color: #323f4b;
+    height:70px;
+    width: 100%;
+    color: #ffffff;
+    padding-top: 15px;
+    font-family: 'Roboto';
+}
+.Para_One{
+    color: #ffffff;
+    padding-left: 20px;
+    font-family: 'Roboto';
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.Text_One{
+    background-color: #47a3f3;
+    border: 1px solid #47a3f3;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 40px;
+    width: 100%;
+    text-align: end;
+    padding-right: 5px ;
+    padding-top: 8px;
+    
+    
+}
+.Text_Two{
+    background-color:#52606d ;
+    border: 1px solid #52606d;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 40px;
+    width: 100%;
+    text-align: left;
+    padding-left: 10px ;
+    padding-top: 8px;
+}

@@ -1,0 +1,38 @@
+.Main_Page{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 40vh;
+    width: 100%;
+    background-size: cover;
+}
+h1{
+padding-top: 40px;
+font-family: 'Caveat';
+padding-right: 1350px;
+}
+.Second_Page{
+    background-color:#e6f6ff;
+    height: 60vh;
+    width: 100%;
+    margin-top: 100px;
+}
+.Air_Baloon{
+    width: 40px;
+}
+.Item_Name{
+    color: #616e7c;
+    font-size: 11px;
+}
+.Item_Price{
+    color: #323f4b;
+}
+.Pic_One{
+    height: 90px;
+    width: 120px;
+}
+.Pad_Elements{
+    margin-left: 600px;
+}
+.View_More{
+    margin-left: 700px;
+    margin-top: 20px;
+}

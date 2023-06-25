@@ -1,0 +1,21 @@
+li{
+    display: inline;
+    margin-left: 10px;
+}
+.Head_One{
+    color: dodgerblue;
+    margin-top: 10px;
+}
+li:hover{
+    background-color: dodgerblue;
+    color: aliceblue;
+}
+.Caro_Img{
+    height: 70vh;
+    width: 90%;
+}
+.carousel .carousel-indicators button {
+    width: 10px;
+   height: 10px;
+   border-radius: 100%;
+ }
