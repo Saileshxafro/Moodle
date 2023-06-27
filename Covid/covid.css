@@ -1,0 +1,59 @@
+.Main_Page{
+    background-color: #dbe3eb;
+    height: 100vh;
+    width: 100%;
+    font-family: 'Roboto';
+    
+}
+.Head_One{
+    font-weight: 600;
+    font-size: larger;
+    color: #323f4bc9;
+}
+.Button_Size{
+    height: 40px;
+    width: 110px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.Cont_One{
+    outline: none;
+    border: 1px solid #6c90b9;
+    border: none;
+    border-radius: 0px;
+}
+.Covid_Img{
+    height: 80px;
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.Sym_Img{
+    height: 70px;
+    width: 70px;
+    margin: 0 auto;
+}
+.Sym_Con{
+    margin-right: 1000px;
+}
+.Sym_Img_One{
+    background-color: #3ebd93;
+}
+.Sym_Img_Two{
+    background-color: #e668a7;
+}
+.Sym_Img_Three{
+    background-color: #a68f;
+}
+.Button_Size_One{
+    height: 40px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+.End_Img{
+    height: 400px;
+    width: 400px;
+}
