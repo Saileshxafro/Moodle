@@ -1,0 +1,18 @@
+.Img_Size{
+    height: 100vh;
+    width: 100%;
+}
+.Head_One{
+    color: #ffffff;
+    font-family: 'Bree Serif';
+    font-weight: 500;
+}
+.Para_One{
+    color: #ffffff;
+    font-family: 'Roboto';
+}
+.Bg_Color{
+    background-color: #000000e6;
+    height: 200px;
+    width: 100%;
+}
